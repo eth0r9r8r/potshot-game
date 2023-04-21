@@ -56,7 +56,7 @@ The Python program (either `PotShot.py` or `App2.py`) communicates with the micr
 it aids in the game set-up, sends data from the selected level to the controller, then decodes and renders the data that it
 recieves. This data contains periodic information about the game's state, which is encoded and sent by the controller.
 
-Level information is saved in excel files, read and encoded by the Python program, and then sent to the microcontroller.
+Encoded level information is saved in excel files, read by the Python program, and then sent to the microcontroller.
 
 ## Demonstration
 Link to youtube demo [here](https://www.youtube.com)
