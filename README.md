@@ -59,4 +59,4 @@ recieves. This data contains periodic information about the game's state, which 
 Encoded level information is saved in excel files, read by the Python program, and then sent to the microcontroller.
 
 ## Demonstration
-Link to youtube demo [here]([https://www.youtube.com](https://youtu.be/qxio4RPUZ28)https://youtu.be/qxio4RPUZ28)
+Link to youtube demo [here](https://youtu.be/qxio4RPUZ28)
